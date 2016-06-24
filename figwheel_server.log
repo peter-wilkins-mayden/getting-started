@@ -1,0 +1,113 @@
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+WARNING: Bad method signature in protocol implementation, Ojbect does not declare method called render at line 7 src/client/app/ui.cljs
+WARNING: Use of undeclared Var app.ui/Ojbect at line 7 src/client/app/ui.cljs
+WARNING: Symbol Ojbect is not a protocol at line 7 src/client/app/ui.cljs
+notifying browser that file changed:  resources/public/js/compiled/dev/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/dev/cljs_deps.js
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 2.648 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+WARNING: Bad method signature in protocol implementation, Ojbect does not declare method called render at line 7 /Users/peterwilkins/getting-started-video/src/client/app/ui.cljs
+WARNING: Use of undeclared Var app.ui/Ojbect at line 7 /Users/peterwilkins/getting-started-video/src/client/app/ui.cljs
+WARNING: Symbol Ojbect is not a protocol at line 7 /Users/peterwilkins/getting-started-video/src/client/app/ui.cljs
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.164 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.166 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+WARNING: Bad method signature in protocol implementation, om/IQuery does not declare method called render at line 7 /Users/peterwilkins/getting-started-video/src/client/app/ui.cljs
+WARNING: Bad method signature in protocol implementation, om/IQuery does not declare method called render at line 7 /Users/peterwilkins/getting-started-video/src/client/app/ui.cljs
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.22 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.918 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.21 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+[31mCompiling "resources/public/js/compiled/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/peterwilkins/getting-started-video/src/client/app/ui.cljs, line 9, column 76
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.57 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.324 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.66 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.863 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.483 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.469 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.56 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+WARNING: Use of undeclared Var app.ui/main at line 45 /Users/peterwilkins/getting-started-video/src/client/app/ui.cljs
+WARNING: Use of undeclared Var app.ui/settings at line 46 /Users/peterwilkins/getting-started-video/src/client/app/ui.cljs
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.81 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.054 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.481 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.457 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.358 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.349 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.435 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.384 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.571 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.405 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+[31mCompiling "resources/public/js/compiled/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration {} should be a vector at line 6 src/client/app/mutations.cljs on file src/client/app/mutations.cljs, line 6, column 12
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/mutations.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.309 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.38 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.413 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.629 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.451 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.394 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.369 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.51 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/client" "dev/client"]...
+notifying browser that file changed:  out/app/ui.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.839 seconds.[0m
